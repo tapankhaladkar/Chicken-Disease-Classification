@@ -20,7 +20,8 @@ list_of_files = [
     "dvc.yaml",
     "requirements.txt",
     "setup.py",
-    "research/trial.ipynb"
+    "research/trial.ipynb",
+    "templtes/inex.html"
 ]
 
 for file_path in list_of_files:
